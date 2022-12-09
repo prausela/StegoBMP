@@ -1,14 +1,10 @@
-# TPI
-
-## 72.44 - Criptografía y Seguridad - 1º cuatrimestre 2022
-
-### Instituto Tecnológico de Buenos Aires (ITBA)
+# StegoBMP
 
 ## Autores
 
-- [Sicardi, Julián Nicolas](https://github.com/Jsicardi) - Legajo 60347
-- [Cruz, Ana](https://github.com/anitacruz) - Legajo 60478
-- [Oseroff, Paula](https://github.com/prausela) - Legajo 58415
+- [Sicardi, Julián Nicolas](https://github.com/Jsicardi)
+- [Cruz, Ana](https://github.com/anitacruz)
+- [Oseroff, Paula](https://github.com/prausela)
 
 ## Índice
 - [Autores](#autores)
